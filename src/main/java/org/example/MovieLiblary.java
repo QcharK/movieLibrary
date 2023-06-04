@@ -1,7 +1,7 @@
 package org.example;
 
 
-public class Main {
+public class MovieLiblary {
     public static void main(String[] args) {
 
     }

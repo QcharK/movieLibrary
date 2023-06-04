@@ -20,7 +20,7 @@ public class MovieLiblaryApp {
                     movieLiblary.getRandomMovieInformation();
                     break;
                 case DISPALY_ALL_MOVIES_FOR_SELECTED_ACTOR:
-                    //printActorFilmography
+                    movieLiblary.printActorFilmography();
                     break;
                 case QUIT:
                     System.out.println("\nThank you. Bye");
@@ -30,6 +30,4 @@ public class MovieLiblaryApp {
         }
 
     }
-
-
-}
+    }
